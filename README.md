@@ -1,5 +1,5 @@
 수정해볼게용
-
+새로운 수정사항 입니다.
 # The DOM Challenge
 
 Devkode is coming up with a weekly hackathon, **#TheDOMChallenge** <br />
